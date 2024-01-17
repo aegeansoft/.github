@@ -3,7 +3,7 @@ The GitHub Organization, Aegeansoft
 ---
 
 ## About AEGEANSOFT:
-**Since 2013, AEGEANSOFT has been providing innovative, creative and high value-added solutions to meet the needs of companies in line with its experience in consulting, software development and Fintech.**
+**Since 2023, AEGEANSOFT has been providing innovative, creative and high value-added solutions to meet the needs of companies in line with its experience in consulting, software development and Fintech.**
 
 
 ## Resources:
