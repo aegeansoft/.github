@@ -16,6 +16,5 @@ The GitHub Organization, Aegeansoft
 
 ## Leadership:
 - [Kaan Özdoğan](https://github.com/kaanozdogan): **General Manager** 
-- [Ali Ilker Topçu](https://github.com/aliilkertopcu): **Unit Manager**
-- [Furkan Oral](https://github.com/furkano97): **Team Lead**
+- [Muazzez Şef](https://github.com/MuazzezKeles1):    **Ar-Ge Müdür Yöneticisi**
 
